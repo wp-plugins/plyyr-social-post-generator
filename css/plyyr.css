@@ -1,0 +1,15 @@
+
+
+a.plyyr:link {color:white;text-decoration: none;}
+a.plyyr:visited {color:white;text-decoration: none;}
+a.plyyr:hover {color:white;text-decoration: none;}
+
+a.plyyrgrey:link {color:#333333;text-decoration: none; }
+a.plyyrgrey:visited {color:#333333;text-decoration: none; }
+a.plyyrgrey:hover {color:#333333;text-decoration: none; }
+
+span.plyyr {display:block; padding:5px;}
+
+div.plyyr {padding-bottom:20px;}
+
+span.poweredbyplyr {padding-left:10px;}
